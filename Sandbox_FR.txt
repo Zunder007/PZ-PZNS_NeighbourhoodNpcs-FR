@@ -1,0 +1,36 @@
+Sandbox_FR = {
+	Sandbox_PZNS_NeighbourhoodNPCs = "PZNS - PNJ du quartier",
+
+	Sandbox_PZNS_NeighbourhoodNPCs_CanSpawnInPlayerBuilding = "Autoriser l'apparition dans le bâtiment de départ du joueur",
+	Sandbox_PZNS_NeighbourhoodNPCs_CanSpawnInPlayerBuilding_tooltip = "Si vrai, les PNJ peuvent apparaître lorsque les joueurs lance une nouvelle partie",
+
+	Sandbox_PZNS_NeighbourhoodNPCs_CanSpawnInNonResidentialBuildings = "Autoriser l'apparition dans les bâtiments non résidentiels",
+	Sandbox_PZNS_NeighbourhoodNPCs_CanSpawnInNonResidentialBuildings_tooltip = "Si vrai, les PNJ peuvent apparaître dans des bâtiments non résidentiels, ce qui pourrait entraîner des apparitions étranges.",
+
+	Sandbox_PZNS_NeighbourhoodNPCs_MinSpawnCountPerCell = "Quantité minimale de PNJ à générer par cellule",
+	Sandbox_PZNS_NeighbourhoodNPCs_MinSpawnCountPerCell_tooltip = "Définit le nombre minimum de PNJ qui apparaîtront dans une cellule à la fois. ( DES VALEURS ÉLEVÉES PROVOQUERONT DES CHUTES DE FPS !!!)",
+
+	Sandbox_PZNS_NeighbourhoodNPCs_MaxSpawnCountPerCell = "Quantité maximale de PNJ à générer par cellule",
+	Sandbox_PZNS_NeighbourhoodNPCs_MaxSpawnCountPerCell_tooltip = "Définit le nombre maximum de PNJ qui apparaîtront dans une cellule à la fois. ( DES VALEURS ÉLEVÉES PROVOQUERONT DES CHUTES DE FPS !!!)",
+
+	Sandbox_PZNS_NeighbourhoodNPCs.MaxNpcFamily = "Nombre de PNJ max par famille",
+	Sandbox_PZNS_NeighbourhoodNPCs.MaxNpcFamily_tooltip = "Définit le nombre maximum de PNJ dans une famille.",
+
+	Sandbox_PZNS_NeighbourhoodNPCs.MinSpawnCountForWanderingNpc = "Nombre minimum d'apparitions de PNJ errants",
+	Sandbox_PZNS_NeighbourhoodNPCs.MinSpawnCountForWanderingNpc_tooltip = "Définit le nombre minimum de PNJ pouvant apparaître par heure.",
+
+	Sandbox_PZNS_NeighbourhoodNPCs.MaxSpawnCountForWanderingNpc = "Nombre maximum d'apparitions de PNJ errants",
+	Sandbox_PZNS_NeighbourhoodNPCs.MaxSpawnCountForWanderingNpc_tooltip = "Définit le nombre maximum de PNJ pouvant apparaître par heure.",
+
+	Sandbox_PZNS_NeighbourhoodNPCs.ChanceForWanderingNpc = "Chance pour les PNJ errants d'apparaître par heure",
+	Sandbox_PZNS_NeighbourhoodNPCs.ChanceForWanderingNpc_tooltip = "Définit la chance pour les PNJ errants d'apparaître par heure.",
+
+	Sandbox_PZNS_NeighbourhoodNPCs_SpawnChanceHostile = "Chance PNJ hostile",
+	Sandbox_PZNS_NeighbourhoodNPCs_SpawnChanceHostile_tooltip = "Définit la probabilité que le PNJ soit hostile au joueur lors de son apparition",	
+
+	Sandbox_PZNS_NeighbourhoodNPCs_SpawnChanceWithGun = "Chance d'apparition du PNJ avec une arme à feu",
+	Sandbox_PZNS_NeighbourhoodNPCs_SpawnChanceWithGun_tooltip =  "Définit la chance que le PNJ soit armé d'une arme à feu.",	
+
+	Sandbox_PZNS_NeighbourhoodNPCs_SpawnChanceWithMelee = "Chance d'apparition du PNJ avec une arme de mêlée",
+	Sandbox_PZNS_NeighbourhoodNPCs_SpawnChanceWithMelee_tooltip =  "Définit la chance que le PNJ soit armé d'une arme de mêlée.",	
+}
